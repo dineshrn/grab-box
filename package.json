@@ -1,6 +1,7 @@
 {
   "name": "grab-box",
   "version": "0.1.0",
+  "type": "module",
   "description": "A utility library inspired by the principles of the Shadcn UI library.",
   "main": "index.js",
   "scripts": {
